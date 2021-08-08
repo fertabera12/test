@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React at platzi by Fersi
+          Learn React at platzi by Fersi, ivan come caca
         </a>
       </header>
     </div>
